@@ -25,6 +25,6 @@ These are the tools Im using:
 
 ### 📬 Let's Connect & Collaborate!
 
-I'm always open to discussing new data challenges, innovative projects, or strategic collaborations. Don't be shy—reach out!
+I'm always open to discussing new data challenges, innovative projects, or strategic collaborations.
 
 * **Telegram:** [Message me directly!](https://t.me/Poiow)
