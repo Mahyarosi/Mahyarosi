@@ -22,7 +22,7 @@ I use a robust, modern stack designed for speed and scale. If it can be measured
 
 | Category | Tools & Libraries | Why I Use It |
 | :--- | :--- | :--- |
-| **Foundation** | 🐘 **SQL** (PostgreSQL, MySQL) | The bedrock of retrieval and relational architecture. |
+| **Foundation** | 🐘 **SQL** (SQL Server, MySQL) | The bedrock of retrieval and relational architecture. |
 | **Analysis Engine** | 🐍 **Python** (Pandas, NumPy) | For heavy-duty manipulation, cleaning, and matrix mathematics. |
 | **Data Storytelling** | 📊 **Matplotlib**, **Seaborn** | Crafting compelling, clear visualizations that drive decision-making. |
 
