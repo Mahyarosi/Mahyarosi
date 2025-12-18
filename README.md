@@ -6,7 +6,7 @@ I am a strategic **Data Analyst** fueled by a background in **Business Managemen
 
 I operate at the intersection of quantitative analysis and organizational value, constantly focused on driving innovation and improving **ROI**. I help model the successful future.
 
-### 💡 What Am I Currently Working On?
+### 💡 What Am I Currently Working On ?
 
 I am always focused on projects that solve real-world operational puzzles. Currently, my efforts are dedicated to:
 
